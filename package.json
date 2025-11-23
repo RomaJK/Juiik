@@ -1,14 +1,14 @@
 {
-  "name": "khai-node-js-course",
+  "name": "juiik",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/mvsova-ux/khai-node-js-course#readme",
+  "homepage": "https://github.com/RomaJK/Juiik#readme",
   "bugs": {
-    "url": "https://github.com/mvsova-ux/khai-node-js-course/issues"
+    "url": "https://github.com/RomaJK/Juiik/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mvsova-ux/khai-node-js-course.git"
+    "url": "git+https://github.com/RomaJK/Juiik.git"
   },
   "license": "ISC",
   "author": "",
