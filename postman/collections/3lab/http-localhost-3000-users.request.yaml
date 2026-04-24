@@ -1,0 +1,8 @@
+$kind: http-request
+name: http://localhost:3000/users
+url: http://localhost:3000/users
+method: POST
+body:
+  type: json
+  content: ""
+order: 2964374500888640
